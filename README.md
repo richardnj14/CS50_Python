@@ -2,22 +2,22 @@
 
 This repository contains some of the problems from CS50P course.
 
-<summary>Functions and variables</summary>
+- Functions and variables</summary>
 
-<summary>Conditionals</summary>
+- [Conditionals](https://github.com/richardnj14/CS50_python/tree/main/conditionals)
 
-<summary>Loops</summary>
+- Loops
 
-<summary>Exceptions</summary>
+- Exceptions
 
-<summary>Libraries</summary>
+- Libraries
 
-<summary>Unit tests</summary>
+- Unit tests
 
-<summary>File I/O</summary>
+- File I/O
 
-<summary>Regular expressions</summary>
+- Regular expressions
 
-<summary>Object-oriented programming</summary>
+- Object-oriented programming
 
-<summary>Et cetera</summary>
+- Et cetera
