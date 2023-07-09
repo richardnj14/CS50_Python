@@ -2,7 +2,7 @@
 #CS50 Introduction to Programming with Python
 #Conditionals
 #This program prompts the user for a simple equation like "x + y" and returns its results
-#This calculator supports all basics operations (+,-,* and /)
+#This calculator supports all basics operations (+,-,* and /), 0 divisor error is rised
 #-------------------------------------------------
 
 def main():
