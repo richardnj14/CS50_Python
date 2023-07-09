@@ -2,7 +2,7 @@
 
 This repository contains some of the problems from CS50P course.
 
-- Functions and variables</summary>
+- [Functions and variables](https://github.com/richardnj14/CS50_python/tree/main/function_variables)
 
 - [Conditionals](https://github.com/richardnj14/CS50_python/tree/main/conditionals)
 
