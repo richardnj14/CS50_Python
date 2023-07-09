@@ -6,7 +6,7 @@ This repository contains some of the problems from CS50P course.
 
 - [Conditionals](https://github.com/richardnj14/CS50_python/tree/main/conditionals)
 
-- Loops
+- [Loops](https://github.com/richardnj14/CS50_python/tree/main/loops)
 
 - Exceptions
 
