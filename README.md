@@ -8,9 +8,9 @@ This repository contains some of the problems from CS50P course.
 
 - [Loops](https://github.com/richardnj14/CS50_python/tree/main/loops)
 
-- Exceptions
+- [Exceptions](https://github.com/richardnj14/CS50_python/tree/main/exceptions)
 
-- Libraries
+- [Libraries](https://github.com/richardnj14/CS50_python/tree/main/libraries)
 
 - Unit tests
 
