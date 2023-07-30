@@ -5,6 +5,7 @@
 #This program expect for two command-line arguments, the first one is a image file input and the second
 #is the output file name or path. This program overlay a "shirt image" on the given input file
 #input and output are expected to have same format (.jpeg, .jpg, or .png)
+#you can use befor1.jpg, before2.jpg or before3.jpg to test this script
 # ------------------------------------------------
 import sys
 import PIL
