@@ -15,7 +15,7 @@ You'll find on this repository some of my learning projects organized by the fol
 
 - [Unit tests](https://github.com/richardnj14/CS50_python/tree/main/unit_tests)
 
-- File I/O
+- [File Input/Output](https://github.com/richardnj14/CS50_python/tree/main/file_input_output)
 
 - Regular expressions
 
