@@ -1,6 +1,7 @@
 # Harvard - CS50 Introduction to Programming with Python
+[CS50P](https://cs50.harvard.edu/python/2022/) is an open course of Harvard University. 
 
-This repository contains some of the problems from CS50P course.
+You'll find on this repository some of my learning projects organized by the following topics:
 
 - [Functions and variables](https://github.com/richardnj14/CS50_python/tree/main/function_variables)
 
