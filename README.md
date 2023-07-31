@@ -1,5 +1,5 @@
 # Harvard - CS50 Introduction to Programming with Python
-[CS50P](https://cs50.harvard.edu/python/2022/) is an open course of Harvard University. 
+[CS50P](https://cs50.harvard.edu/python/2022/) is an open course of Harvard University. Take a look in this [codespace](https://github.com/codespaces/richardnj14-studious-invention-6jxw5vj4gwpf5xv4) to test some of my python trainning algorithms.
 
 You'll find on this repository some of my learning projects organized by the following topics:
 
